@@ -9,7 +9,6 @@
 
 
 
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer science and Engineering student at **Vishwakarma Institute of Technology**, Pune. 
