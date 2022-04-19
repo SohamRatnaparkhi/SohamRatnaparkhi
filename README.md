@@ -16,6 +16,7 @@
 	2.  Java <br>
 	3.  C / C++ <br>
 	4.  HTML, CSS <br>
+	5.  Markdown <br>
 
 I am an undergraduate Computer science and Engineering student at **Vishwakarma Institute of Technology**, Pune. 
 - Python, Java, C++, C, HTML, CSS and JavaScript are the programming languages in which I generally code. I'm  a coding enthusiast.
@@ -73,14 +74,14 @@ __Check out my GitHub repository:__
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/SohamRatnaparkhi"><img alt="SohamRatnaparkhi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SohamRatnaparkhi&custom_title=SohamRatnaparkhi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
 <br/>
-
----------------------------------------------------------------------------------------------------------------------
+ -->
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
 Credits: <a href="https://github.com/SohamRatnaparkhi">SohamRatnaparkhi</a>
 
