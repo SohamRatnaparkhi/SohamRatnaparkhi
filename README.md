@@ -17,6 +17,8 @@
 	3.  C / C++ <br>
 	4.  HTML, CSS <br>
 	5.  Markdown <br>
+	6.  Git and GitHub <br>
+	7.  VS Code <br>
 
 I am an undergraduate Computer science and Engineering student at **Vishwakarma Institute of Technology**, Pune. 
 - Python, Java, C++, C, HTML, CSS and JavaScript are the programming languages in which I generally code. I'm  a coding enthusiast.
