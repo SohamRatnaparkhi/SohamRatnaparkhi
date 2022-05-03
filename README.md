@@ -10,17 +10,19 @@
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-[Personal Portfolio website](https://sohamratnaparkhi.github.io/PersonalWebsite_SohamR/)
-[Personal CV](https://sohamratnaparkhi.github.io/SohamR_cv/)
+🔍 [Personal Portfolio website](https://sohamratnaparkhi.github.io/PersonalWebsite_SohamR/)
+<br>
+📑 [Personal CV](https://sohamratnaparkhi.github.io/SohamR_cv/)
 
 - <h3> Tech-stack 📜</h3>
 	1.  Python <br>
 	2.  Java <br>
 	3.  C / C++ <br>
-	4.  HTML, CSS <br>
+	4.  HTML, CSS, JS, Bootstrap <br>
 	5.  Markdown <br>
 	6.  Git and GitHub <br>
 	7.  VS Code <br>
+	8.  Kotlin <br>
 
 I am an undergraduate Computer science and Engineering student at **Vishwakarma Institute of Technology**, Pune. 
 - Python, Java, C++, C, HTML, CSS and JavaScript are the programming languages in which I generally code. I'm  a coding enthusiast.
