@@ -10,6 +10,7 @@
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+[Personal Portfolio website](https://sohamratnaparkhi.github.io/PersonalWebsite_SohamR/)
 [Personal CV](https://sohamratnaparkhi.github.io/SohamR_cv/)
 
 - <h3> Tech-stack 📜</h3>
