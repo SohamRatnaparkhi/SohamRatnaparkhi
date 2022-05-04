@@ -3,16 +3,15 @@
 </p>
 <h3>Soham here!</h3>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SohamRatnaparkhi.repoName) [![GitHub followers](https://img.shields.io/github/followers/SohamRatnaparkhi.svg?style=social&label=Follow)](https://github.com/SohamRatnaparkhi)<br/>
-
-![coding](https://user-images.githubusercontent.com/92905626/156046783-f5c1e33c-22a3-410a-bdbc-d44d2c9e37a2.gif)
-
-
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SohamRatnaparkhi.repoName) 
+<br>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="140"  />
+<!-- ![I love coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 🔍 [Personal Portfolio website](https://sohamratnaparkhi.github.io/PersonalWebsite_SohamR/)
 <br>
 📑 [Personal CV](https://sohamratnaparkhi.github.io/SohamR_cv/)
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 - <h3> Tech-stack 📜</h3>
 	1.  Python <br>
