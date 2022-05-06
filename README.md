@@ -52,17 +52,17 @@ __Check out my GitHub repository:__
 </div>
 
 
-<h2>👀 My github Stats</h2>
+## 📊 Github Stats
 <h3>🔥Streak Stats!</h3>
 <div>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamRatnaparkhi&theme=algolia" alt="SohamRatnaparkhi" /></p>
 
 <br>
-<br>
+<hr>
 </div>
 
-## 📊 Github Stats
+
 
 
 
