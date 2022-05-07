@@ -7,6 +7,7 @@
 <br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="140"  />
 <!-- ![I love coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
+
 🔍 [Personal Portfolio website](https://sohamratnaparkhi.github.io/PersonalWebsite_SohamR/)
 <br>
 📑 [Personal CV](https://sohamratnaparkhi.github.io/SohamR_cv/)
@@ -33,7 +34,8 @@ I am an undergraduate Computer science and Engineering student at **Vishwakarma 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, I love playing football FORÇA BARÇA !⚽
-## 🔗 Links
+## 🔗 [Links](http://linkfree.eddiehub.org/SohamRatnaparkhi)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-ratnaparkhi-3a3775ab/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SohamR_7113)
 
