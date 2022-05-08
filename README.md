@@ -1,11 +1,10 @@
+<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SohamRatnaparkhi.repoName)  -->
 <h1> Hello Devs! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<img src="https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png">
 <p align='center'>
 </p>
 <h3>Soham here!</h3>
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SohamRatnaparkhi.repoName) 
-<br>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="140"  />
+<!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="140"  /> -->
 <!-- ![I love coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
 🔍 [Personal Portfolio website](https://sohamratnaparkhi.github.io/PersonalWebsite_SohamR/)
@@ -40,14 +39,16 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-I am an undergraduate Computer science and Engineering student at **Vishwakarma Institute of Technology**, Pune. 
-I'm  a coding enthusiast.
+- I am an undergraduate Computer science and Engineering student at **Vishwakarma Institute of Technology**, Pune. 
+- I'm  a coding enthusiast and 
 **I am interested in Data structure and Algorithms, Android development, and Web Development**
-- I like participating in coding contests.
-    - <a href="https://www.codechef.com/users/soham_r"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width = 30px></a>
-    - <a href="https://leetcode.com/Soham_R/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width = 30px/></a>
-    - <a href="https://www.hackerrank.com/soham_ratnapark1">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+- I like participating in coding contests. <br>
+    <a href="https://www.codechef.com/users/soham_r">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) </a>
+    <a href="https://leetcode.com/Soham_R/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+    <a href="https://www.hackerrank.com/soham_ratnapark1">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, I love playing football FORÇA BARÇA !⚽
@@ -55,11 +56,9 @@ I'm  a coding enthusiast.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-ratnaparkhi-3a3775ab/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SohamR_7113)
+<a href="soham.ratnaparkhi@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-
-- 📫 Reach out to me at: <a href="soham.ratnaparkhi@gmail.com">soham.ratnaparkhi@gmail.com</a>
-
-__Check out my GitHub repository:__
+<!-- __Check out my GitHub repository:__
 
 <div>
   <p>
@@ -68,11 +67,19 @@ __Check out my GitHub repository:__
     </a>
     
   </p>
-</div>
+</div> -->
 
 
-## 📊 Github Stats
-<h3>🔥Streak Stats!</h3>
+## 📊 Github Analytics
+ <table>
+  <tr>
+   
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamRatnaparkhi&theme=algolia" alt="SohamRatnaparkhi"/>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SohamRatnaparkhi&count_private=true&show_icons=true&theme=algolia" /></td>
+  </tr>
+</table>
+
+<!-- <h3>🔥Streak Stats!</h3>
 <div>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamRatnaparkhi&theme=algolia" alt="SohamRatnaparkhi" /></p>
@@ -80,18 +87,13 @@ __Check out my GitHub repository:__
 <br>
 <hr>
 </div>
-
-
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
+<summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/> -->
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SohamRatnaparkhi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SohamRatnaparkhi&count_private=true&show_icons=true&theme=algolia" height="192px"/></a>
-<br/>
+<!--     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SohamRatnaparkhi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SohamRatnaparkhi&count_private=true&show_icons=true&theme=algolia" height="192px"/></a>
+<br/> -->
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamRatnaparkhi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SohamRatnaparkhi" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamRatnaparkhi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SohamRatnaparkhi" height="192px" width="600px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
