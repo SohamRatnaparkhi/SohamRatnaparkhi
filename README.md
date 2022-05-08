@@ -1,9 +1,9 @@
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SohamRatnaparkhi.repoName)  -->
 <h1> Hello Devs! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<img src="https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png">
+<img src="https://user-images.githubusercontent.com/92905626/167291814-f469ad75-182b-42dd-a631-c3a7df977884.jpg">
 <p align='center'>
 </p>
-<h3>Soham here!</h3>
+<!-- <h3>Soham here!</h3> -->
 <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="140"  /> -->
 <!-- ![I love coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
