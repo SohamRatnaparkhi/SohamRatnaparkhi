@@ -51,7 +51,7 @@
     <a href="https://www.hackerrank.com/soham_ratnapark1">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, I love playing football FORÇA BARÇA !⚽
+- Outside tech, I love playing football `FORÇA BARÇA`⚽
 ## 🔗 [Links](http://linkfree.eddiehub.org/SohamRatnaparkhi)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-ratnaparkhi-3a3775ab/)
