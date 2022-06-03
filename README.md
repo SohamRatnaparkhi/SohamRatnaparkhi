@@ -1,5 +1,5 @@
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SohamRatnaparkhi.repoName)  -->
-<h1> Hello Devs! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello Devs! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30> </h1>
 <img src="https://user-images.githubusercontent.com/92905626/167291814-f469ad75-182b-42dd-a631-c3a7df977884.jpg">
 <p align='center'>
 </p>
@@ -11,7 +11,7 @@
 <br>
 📑 [Personal CV](https://sohamratnaparkhi.github.io/SohamR_cv/)
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***About me***
 
 - <h3> Tech-stack 📜</h3>
 <!-- 	1.  Python <br>
