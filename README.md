@@ -83,7 +83,7 @@
    <summary><b>🏆 Trophies</b></summary>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SohamRatnaparkhi&theme=onedark&row=1&column=6&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SohamRatnaparkhi&theme=onedark&row=1&column=6&margin-w=30)](https://github.com/ryo-ma/github-profile-trophy)
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
