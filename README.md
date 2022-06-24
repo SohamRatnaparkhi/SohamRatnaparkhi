@@ -64,17 +64,6 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SohamR_7113)
 <a href="soham.ratnaparkhi@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-<!-- __Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/SohamRatnaparkhi/Voice-Assistant">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SohamRatnaparkhi&repo=Voice-Assistant" alt="GitHub Stats" />
-    </a>
-    
-  </p>
-</div> -->
-
 
 ## 📊 Github Analytics
  <table>
@@ -85,32 +74,25 @@
   </tr>
 </table>
 
-<!-- <h3>🔥Streak Stats!</h3>
-<div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamRatnaparkhi&theme=algolia" alt="SohamRatnaparkhi" /></p>
-
-<br>
-<hr>
-</div>
-<summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/> -->
   <p align="center">
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SohamRatnaparkhi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SohamRatnaparkhi&count_private=true&show_icons=true&theme=algolia" height="192px"/></a>
-<br/> -->
-  &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamRatnaparkhi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SohamRatnaparkhi" height="192px" width="600px"/>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p> -->
+   <summary><b>🏆 Trophies</b></summary>
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SohamRatnaparkhi&theme=onedark&row=1&column=6&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
+  
    <a href="https://github.com/SohamRatnaparkhi"><img alt="SohamRatnaparkhi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SohamRatnaparkhi&custom_title=SohamRatnaparkhi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
 <br/>
-
-<!-- --------------------------------------------------------------------------------------------------------------------- -->
+<hr>
 Credits: <a href="https://github.com/SohamRatnaparkhi">SohamRatnaparkhi</a>
 
