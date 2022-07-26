@@ -9,7 +9,7 @@
 
 🔍 [Personal Portfolio website](https://sohamratnaparkhi.github.io/PersonalWebsite_SohamR/)
 <br>
-📑 [Personal CV](https://sohamratnaparkhi.github.io/SohamR_cv/)
+<!-- 📑 [Personal CV](https://sohamratnaparkhi.github.io/SohamR_cv/) -->
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***About me***
 
