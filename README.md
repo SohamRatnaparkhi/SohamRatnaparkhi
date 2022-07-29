@@ -50,7 +50,7 @@
  -->
 - I am an undergraduate Computer science and Engineering student at **Vishwakarma Institute of Technology**, Pune. 
 - I'm  a coding enthusiast and 
-**I am interested in Data structure and Algorithms, Android development, and Web Development**
+**I am interested in Machine learning / Deep learning, Web Dev and Data structure and Algorithms**
 - I like participating in coding contests. <br>
     <a href="https://www.codechef.com/users/soham_r">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) </a>
     <a href="https://leetcode.com/Soham_R/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
