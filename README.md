@@ -7,9 +7,9 @@
 <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="140"  /> -->
 <!-- ![I love coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
-🔍 [Personal Portfolio website](https://sohamratnaparkhi.github.io/PersonalWebsite_SohamR/)
+<!-- 🔍 [Personal Portfolio website](https://sohamratnaparkhi.github.io/PersonalWebsite_SohamR/)
 <br>
-<!-- 📑 [Personal CV](https://sohamratnaparkhi.github.io/SohamR_cv/) -->
+📑 [Personal CV](https://sohamratnaparkhi.github.io/SohamR_cv/) -->
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***About me***
 
