@@ -51,10 +51,10 @@
 - I'm  a coding enthusiast and 
 **I am interested in Machine learning / Deep learning, Web Dev and Data structure and Algorithms**
 - 👯 I’m looking forward to collaborate on open source projects.
-- I like participating in coding contests. <br>
+<!--  - I like participating in coding contests. <br>
     <a href="https://www.codechef.com/users/soham_r">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) </a>
     <a href="https://leetcode.com/Soham_R/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-    <a href="https://www.hackerrank.com/soham_ratnapark1">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+    <a href="https://www.hackerrank.com/soham_ratnapark1">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a> -->
 - ✔ Ask me anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, I am a decent footballer! `FORÇA BARÇA`⚽
 ## 🔗 [Links](http://linkfree.eddiehub.org/SohamRatnaparkhi)
