@@ -74,17 +74,17 @@
 </table>
 
 
-  <p align="center">
+<!--    <p align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamRatnaparkhi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SohamRatnaparkhi" height="192px" width="600px"/>
   <br/>
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p> -->
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p> 
    <summary><b>🏆 Trophies</b></summary>
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SohamRatnaparkhi&theme=onedark&row=1&column=6&margin-w=30)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+-->
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
