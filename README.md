@@ -1,4 +1,4 @@
-<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SohamRatnaparkhi.repoName)  -->
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SohamRatnaparkhi.repoName)
 <h1> Hello Devs! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30> </h1>
 <img src="https://user-images.githubusercontent.com/92905626/167291814-f469ad75-182b-42dd-a631-c3a7df977884.jpg">
 <p align='center'>
