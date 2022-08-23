@@ -1,7 +1,16 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SohamRatnaparkhi.repoName)
-<h1> Hello Devs! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30> </h1>
-<img src="https://user-images.githubusercontent.com/92905626/167291814-f469ad75-182b-42dd-a631-c3a7df977884.jpg">
+
+
+<!-- https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif 
+
+<h1> <img src = "https://github.com/SohamRatnaparkhi/SohamRatnaparkhi/blob/main/.gif/giphy.gif" height="50"> Hello all! <img src = "https://github.com/SohamRatnaparkhi/SohamRatnaparkhi/blob/main/.gif/giphy.gif" height="50"> </h1> -->
+
+``` html
+                                     		<h1> Hello all </h1>
+```
 <p align='center'>
+
+<img src="https://user-images.githubusercontent.com/92905626/167291814-f469ad75-182b-42dd-a631-c3a7df977884.jpg" height="300" >
 </p>
 <!-- <h3>Soham here!</h3> -->
 <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="140"  /> -->
@@ -74,12 +83,15 @@
 </table>
 
 
-  <p align="center">
+ <!-- <p align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamRatnaparkhi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SohamRatnaparkhi" height="192px" width="600px"/>
   <br/>
- <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p> 
-  <details>
+  
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<details>
    <summary><b>🏆 Github Trophies</b></summary>
 <br>
 
@@ -92,8 +104,4 @@
    <a href="https://github.com/SohamRatnaparkhi"><img alt="SohamRatnaparkhi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SohamRatnaparkhi&custom_title=SohamRatnaparkhi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/> 
 </details>
-
-<br/>
-<hr>
-Credits: <a href="https://github.com/SohamRatnaparkhi">SohamRatnaparkhi</a>
 
