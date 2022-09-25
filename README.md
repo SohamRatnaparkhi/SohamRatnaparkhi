@@ -23,7 +23,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***About me***
 
 - I'm  a coding enthusiast and 
-**I am interested in Machine learning / Deep learning, Web Dev and Data structure and Algorithms**
+**I like working on Machine learning / Deep learning, Web Dev projects and Data structure and Algorithms**
 - 👯 I’m looking forward to collaborate on open source projects.
 <!--  - I like participating in coding contests. <br>
     <a href="https://www.codechef.com/users/soham_r">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) </a>
