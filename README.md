@@ -6,13 +6,13 @@
 <h1> <img src = "https://github.com/SohamRatnaparkhi/SohamRatnaparkhi/blob/main/.gif/giphy.gif" height="50"> Hello all! <img src = "https://github.com/SohamRatnaparkhi/SohamRatnaparkhi/blob/main/.gif/giphy.gif" height="50"> </h1> -->
 
 ``` html
-                                     		<h1> Hello all </h1>
+                                     		<h1> Hello world! </h1>
 ```
 <p align='center'>
 
-<img src="https://user-images.githubusercontent.com/92905626/167291814-f469ad75-182b-42dd-a631-c3a7df977884.jpg" height="300" >
+<img src="https://user-images.githubusercontent.com/92905626/194618912-b6dec2bd-7515-44f8-b70a-69e8099aeba4.gif" height="500" >
 </p>
-<!-- <h3>Soham here!</h3> -->
+<!-- <h3>Soham here!</h3>  https://user-images.githubusercontent.com/92905626/167291814-f469ad75-182b-42dd-a631-c3a7df977884.jpg -->
 <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="140"  /> -->
 <!-- ![I love coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
