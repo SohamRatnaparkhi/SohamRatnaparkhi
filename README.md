@@ -68,6 +68,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+Merged more than 10 Pull requests during the Hactoberfest period and earned some of their swags as well as this badge.
+<center>
+ <img src = "https://user-images.githubusercontent.com/92905626/195105859-4dd9a4f8-09fa-42b9-a9d1-97c321ca8521.png" height="150">
+</center>
 
 ## 🔗 [Contact Me](http://linkfree.eddiehub.org/SohamRatnaparkhi)
 
