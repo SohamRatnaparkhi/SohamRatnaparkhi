@@ -104,10 +104,10 @@ Merged 20+ code/low code contributions' pull requests during the Hactoberfest pe
    <summary><b>🏆 Github Trophies</b></summary>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SohamRatnaparkhi&theme=onedark&row=1&column=6&margin-w=30)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SohamRatnaparkhi&theme=onedark&row=1&column=7&margin-w=30)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>📈 My contribution graph </b></summary>
   <br/>
   
    <a href="https://github.com/SohamRatnaparkhi"><img alt="SohamRatnaparkhi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SohamRatnaparkhi&custom_title=SohamRatnaparkhi's%20Contribution%20Graph&theme=react-dark" /></a>
