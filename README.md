@@ -71,9 +71,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 Merged 20+ code/low code pull requests during the Hactoberfest period and earned some of their swags as well as this badge.
-<center>
- <img src = "https://user-images.githubusercontent.com/92905626/195105859-4dd9a4f8-09fa-42b9-a9d1-97c321ca8521.png" height="150">
-</center>
+
+ [![@sohamratnaparkhi's Holopin board](https://holopin.me/sohamratnaparkhi)](https://holopin.io/@sohamratnaparkhi)
 
 ## 🔗 [Contact Me](http://linkfree.eddiehub.org/SohamRatnaparkhi)
 
