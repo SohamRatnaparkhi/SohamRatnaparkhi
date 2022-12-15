@@ -85,8 +85,8 @@ Merged 20+ code/low code pull requests during the Hactoberfest period and earned
  <table>
   <tr>
    
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamRatnaparkhi&theme=algolia" alt="SohamRatnaparkhi"/>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SohamRatnaparkhi&count_private=true&show_icons=true&theme=algolia" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamRatnaparkhi&theme=nightowl" alt="SohamRatnaparkhi"/>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SohamRatnaparkhi&count_private=true&show_icons=true&theme=nightowl" /></td>
   </tr>
 </table>
 
