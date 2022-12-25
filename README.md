@@ -26,7 +26,7 @@
 
 - My area of work is diversified into various domains, which mainly include **Full-stack web development**, **Artificial Intelligence**, **Deep Learning** and solving crunch **data structures and algorithm** problems. 
 - 👯 I’m looking forward to collaborate on open source projects.
-- In my spare time, I do witre blogs on [Hashnode](https://hashnode.com/@SohamR) and [leetcode](https://leetcode.com/Soham_R/). 
+- In my spare time, I do write blogs on [Hashnode](https://hashnode.com/@SohamR) and [leetcode](https://leetcode.com/Soham_R/). 
 <!--  - I like participating in coding contests. <br>
     <a href="https://www.codechef.com/users/soham_r">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) </a>
     <a href="https://leetcode.com/Soham_R/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
