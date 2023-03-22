@@ -1,4 +1,4 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SohamRatnaparkhi.repoName)
+
 
 
 <!-- https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif 
@@ -120,3 +120,4 @@ Merged 20+ code/low code pull requests during the Hactoberfest period and earned
   <br/> 
 </details>
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SohamRatnaparkhi.repoName)
