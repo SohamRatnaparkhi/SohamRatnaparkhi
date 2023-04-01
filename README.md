@@ -76,9 +76,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Merged 20+ code/low code pull requests during the Hactoberfest period and earned some of their swags as well as this badge.
+<!-- Merged 20+ code/low code pull requests during the Hactoberfest period and earned some of their swags as well as this badge.
 
- [![@sohamratnaparkhi's Holopin board](https://holopin.me/sohamratnaparkhi)](https://holopin.io/@sohamratnaparkhi)
+ [![@sohamratnaparkhi's Holopin board](https://holopin.me/sohamratnaparkhi)](https://holopin.io/@sohamratnaparkhi) --->
 
 ## 🔗 [Contact Me](http://linkfree.eddiehub.org/SohamRatnaparkhi)
 
@@ -111,12 +111,12 @@ Merged 20+ code/low code pull requests during the Hactoberfest period and earned
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SohamRatnaparkhi&theme=onedark&row=1&column=7&margin-w=30)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
-<details>
+<!-- <details>
   <summary><b>📈 My contribution graph </b></summary>
   <br/>
   
    <a href="https://github.com/SohamRatnaparkhi"><img alt="SohamRatnaparkhi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SohamRatnaparkhi&custom_title=SohamRatnaparkhi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/> 
-</details>
+</details> --->
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SohamRatnaparkhi.repoName)
