@@ -86,33 +86,6 @@
 <a href="soham.ratnaparkhi@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
-
-## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://sohamr.hashnode.dev/nextjs-13-everything-you-need-to-know" title="Next.js 13.4: Everything You Need to Know (Part - 1)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684178061508/965d180d-32ce-4d6d-8bbf-498a5687220f.png" alt="Next.js 13.4: Everything You Need to Know (Part - 1)" width="250px" align="left" /></a>
-<a href="https://sohamr.hashnode.dev/nextjs-13-everything-you-need-to-know" title="Next.js 13.4: Everything You Need to Know (Part - 1)"><strong>Next.js 13.4: Everything You Need to Know (Part - 1)</strong></a>
-<div><strong>15 May 2023</strong> | <strong>Updated: 16 May 2023</strong></div>
-<br/> Next.js is a React framework that enables you to build fast, dynamic, and SEO-friendly web apps with ease. It provides features such as file-system-based routing, server-side rendering, automatic code splitting, data fetching, image optimization, and... </p> <br/> <br/>
-<p align="left">
-<a href="https://sohamr.hashnode.dev/what-is-contributing-to-open-source-and-how-to-contribute-to-open-source-programs-2023" title="What is contributing to open-source and how to contribute to open-source programs 2023"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670386427119/jvIcnxOIs.jpeg" alt="What is contributing to open-source and how to contribute to open-source programs 2023" width="250px" align="left" /></a>
-<a href="https://sohamr.hashnode.dev/what-is-contributing-to-open-source-and-how-to-contribute-to-open-source-programs-2023" title="What is contributing to open-source and how to contribute to open-source programs 2023"><strong>What is contributing to open-source and how to contribute to open-source programs 2023</strong></a>
-<div><strong>7 Dec 2022</strong> | <strong>Updated: 7 Dec 2022</strong></div>
-<br/> Depending on the project you're working on, contributing to open source may be frightening and perplexing. Additionally, the majority of large open-source projects have a steep learning curve. However, as proven, there are many chances for newcomers ... </p> <br/> <br/>
-<p align="left">
-<a href="https://sohamr.hashnode.dev/finite-state-automata" title="Finite State Automata"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/xG8IQMqMITM/upload/v1669224714646/LaqugFGS7.jpeg" alt="Finite State Automata" width="250px" align="left" /></a>
-<a href="https://sohamr.hashnode.dev/finite-state-automata" title="Finite State Automata"><strong>Finite State Automata</strong></a>
-<div><strong>23 Nov 2022</strong> | <strong>Updated: 26 Nov 2022</strong></div>
-<br/> Introduction
-An automata, also known as an abstract machine or model, is anything that is examined in order to find solutions to difficult mathematical problems. The computer science subfield known as the Theory of Automata is intimately connected to... </p> <br/> <br/>
-<p align="left">
-<a href="https://sohamr.hashnode.dev/css-flexbox" title="CSS - flexbox"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659266359902/DKxKFZMpT.jpg" alt="CSS - flexbox" width="250px" align="left" /></a>
-<a href="https://sohamr.hashnode.dev/css-flexbox" title="CSS - flexbox"><strong>CSS - flexbox</strong></a>
-<div><strong>1 Aug 2022</strong></div>
-<br/> Flexbox display property seems to be a bit confusing or intimidating initially but is a great tool that helps make your website responsive. This article will cover all the paramount/important flexbox properties (which include properties on the parent... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
-
-
 ## 📊 Github Analytics
  <table>
   <tr>
@@ -130,6 +103,10 @@ An automata, also known as an abstract machine or model, is anything that is exa
   </p> 
   
 <!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
+
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <details>
    <summary><b>🏆 Github Trophies</b></summary>
