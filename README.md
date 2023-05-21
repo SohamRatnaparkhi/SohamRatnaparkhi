@@ -88,8 +88,8 @@
 ---
 
 ## My blogs
-<!-- HASHNODE-BLOGS:START -->
-<!-- HASHNODE-BLOGS:END -->
+<!-- HASHNODE-BLOG:START -->
+<!-- HASHNODE-BLOG:END -->
 
 ---
 
