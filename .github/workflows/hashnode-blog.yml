@@ -19,5 +19,7 @@ jobs:
           USERNAME: 'SohamR' # Hashnode Username
           BLOG_URL: 'https://sohamr.hashnode.dev/' # Blog URL
           COUNT: 5 # MAX Visisble
+          FILE: "README.md"
+          STYLE: "blog-left"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
