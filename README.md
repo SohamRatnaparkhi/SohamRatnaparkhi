@@ -96,13 +96,13 @@
 </table>
 
 
- <!-- <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamRatnaparkhi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SohamRatnaparkhi" height="192px" width="600px"/>
+ <p align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamRatnaparkhi&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=6&show_icons=true&locale=en&theme=algolia&hide=jupyternotebook,c,java,python,solidity&exclude_repo=BrainTumorDetection" alt="SohamRatnaparkhi"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. --> 
   </p> 
   
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 <details>
    <summary><b>🏆 Github Trophies</b></summary>
