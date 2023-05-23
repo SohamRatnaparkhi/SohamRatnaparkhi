@@ -108,6 +108,11 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sohamr.hashnode.dev/beginner-guide-to-deploying-micro-services-on-kubernetes" title="Beginner guide to deploying Micro-services on Kubernetes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684879002236/2a94e50f-df85-494c-9d94-0799010b906e.avif" alt="Beginner guide to deploying Micro-services on Kubernetes" width="250px" align="left" /></a>
+<a href="https://sohamr.hashnode.dev/beginner-guide-to-deploying-micro-services-on-kubernetes" title="Beginner guide to deploying Micro-services on Kubernetes"><strong>Beginner guide to deploying Micro-services on Kubernetes</strong></a>
+<div><strong>23 May 2023</strong></div>
+<br/> In today's fast-paced digital landscape, businesses are increasingly adopting microservices architecture to build scalable and resilient applications. Microservices offer a modular approach to application development, allowing different components to... </p> <br/> <br/>
+<p align="left">
 <a href="https://sohamr.hashnode.dev/nextjs-13-everything-you-need-to-know" title="Next.js 13.4: Everything You Need to Know (Part - 1)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684178061508/965d180d-32ce-4d6d-8bbf-498a5687220f.png" alt="Next.js 13.4: Everything You Need to Know (Part - 1)" width="250px" align="left" /></a>
 <a href="https://sohamr.hashnode.dev/nextjs-13-everything-you-need-to-know" title="Next.js 13.4: Everything You Need to Know (Part - 1)"><strong>Next.js 13.4: Everything You Need to Know (Part - 1)</strong></a>
 <div><strong>15 May 2023</strong> | <strong>Updated: 16 May 2023</strong></div>
@@ -123,11 +128,6 @@
 <div><strong>23 Nov 2022</strong> | <strong>Updated: 26 Nov 2022</strong></div>
 <br/> Introduction
 An automata, also known as an abstract machine or model, is anything that is examined in order to find solutions to difficult mathematical problems. The computer science subfield known as the Theory of Automata is intimately connected to... </p> <br/> <br/>
-<p align="left">
-<a href="https://sohamr.hashnode.dev/css-flexbox" title="CSS - flexbox"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659266359902/DKxKFZMpT.jpg" alt="CSS - flexbox" width="250px" align="left" /></a>
-<a href="https://sohamr.hashnode.dev/css-flexbox" title="CSS - flexbox"><strong>CSS - flexbox</strong></a>
-<div><strong>1 Aug 2022</strong></div>
-<br/> Flexbox display property seems to be a bit confusing or intimidating initially but is a great tool that helps make your website responsive. This article will cover all the paramount/important flexbox properties (which include properties on the parent... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <details>
