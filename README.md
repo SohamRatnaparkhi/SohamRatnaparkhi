@@ -110,7 +110,7 @@
 <p align="left">
 <a href="https://sohamr.hashnode.dev/beginner-guide-to-deploying-micro-services-on-kubernetes" title="Beginner guide to deploying Micro-services on Kubernetes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684879002236/2a94e50f-df85-494c-9d94-0799010b906e.avif" alt="Beginner guide to deploying Micro-services on Kubernetes" width="250px" align="left" /></a>
 <a href="https://sohamr.hashnode.dev/beginner-guide-to-deploying-micro-services-on-kubernetes" title="Beginner guide to deploying Micro-services on Kubernetes"><strong>Beginner guide to deploying Micro-services on Kubernetes</strong></a>
-<div><strong>23 May 2023</strong></div>
+<div><strong>23 May 2023</strong> | <strong>Updated: 25 May 2023</strong></div>
 <br/> In today's fast-paced digital landscape, businesses are increasingly adopting microservices architecture to build scalable and resilient applications. Microservices offer a modular approach to application development, allowing different components to... </p> <br/> <br/>
 <p align="left">
 <a href="https://sohamr.hashnode.dev/nextjs-13-everything-you-need-to-know" title="Next.js 13.4: Everything You Need to Know (Part - 1)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684178061508/965d180d-32ce-4d6d-8bbf-498a5687220f.png" alt="Next.js 13.4: Everything You Need to Know (Part - 1)" width="250px" align="left" /></a>
