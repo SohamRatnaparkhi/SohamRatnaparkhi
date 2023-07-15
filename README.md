@@ -88,7 +88,7 @@
 
 
 ## 📊 Github Analytics
- <table>
+<!-- <table>
   <tr>
    
 <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamRatnaparkhi&theme=nightowl" alt="SohamRatnaparkhi"/>
@@ -100,10 +100,10 @@
  <p align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamRatnaparkhi&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=6&show_icons=true&locale=en&theme=algolia&hide=jupyternotebook,c,java,python,solidity&exclude_repo=BrainTumorDetection" alt="SohamRatnaparkhi"/>
   <br/>
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. --> 
-  </p> 
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -
+  </p> -->
   
-<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
