@@ -25,15 +25,16 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***About me***
 
 - My area of work is diversified into various domains, which mainly include **DevOps**, **Full-stack web development**, **Artificial Intelligence**, **Deep Learning** and solving crunch **data structures and algorithm** problems. 
-- 👯 I’m looking forward to collaborate on open source projects.
-- In my spare time, I do write blogs on [Hashnode](https://hashnode.com/@SohamR) and [leetcode](https://leetcode.com/Soham_R/). 
+- 👯 I’m looking forward to collaborating on open-source projects.
+- I was part of LFX-Mentorship'23 Term-2 with Litmus-Chaos.
+- In my spare time, I write blogs on [Hashnode](https://hashnode.com/@SohamR) and [leetcode](https://leetcode.com/Soham_R/). 
 <!--  - I like participating in coding contests. <br>
     <a href="https://www.codechef.com/users/soham_r">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) </a>
     <a href="https://leetcode.com/Soham_R/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
     <a href="https://www.hackerrank.com/soham_ratnapark1">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a> -->
-- ✔ Ask me anything, I am happy to help, (only if the ball is in my court!😉)<br>
+- ✔ Ask me anything, and I am happy to help, (only if the ball is in my court!😉)<br>
 - Outside tech, I am a decent footballer! `FORÇA BARÇA`⚽
-- Here's a link to my **resume** ([Link](https://drive.google.com/file/d/15TG-dRuJFOZspBTlwq1kFQlNwX1EvfXj/view?usp=sharing)) and **portfolio website** ([Link](https://soham-r-portfolio-website.vercel.app))
+- Here's a link to my **resume** ([Link](https://drive.google.com/file/d/1GjLqmwYyI-m5RsSMtxGUudKE9f_H6pBJ/view?usp=sharing)) and **portfolio website** ([Link](https://soham-r-portfolio-website.vercel.app))
 - <h3> Tech-stack 📜</h3>
 <!-- 	1.  Python <br>
 	2.  Java <br>
