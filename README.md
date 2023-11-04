@@ -24,7 +24,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***About me***
 
-- My area of work is diversified into various domains, which mainly include **DevOps**, **Full-stack web development**, **Artificial Intelligence**, **Deep Learning** and solving crunch **data structures and algorithm** problems. 
+- My area of work is diversified into various domains, which mainly include **Full-stack web development**, **Artificial Intelligence**, **Deep Learning** and solving crunch **data structures and algorithm** problems. 
 - 👯 I’m looking forward to collaborating on open-source projects.
 - I was part of LFX-Mentorship'23 Term-2 with Litmus-Chaos.
 - In my spare time, I write blogs on [Hashnode](https://hashnode.com/@SohamR) and [leetcode](https://leetcode.com/Soham_R/). 
