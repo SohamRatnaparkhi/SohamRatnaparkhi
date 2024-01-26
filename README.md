@@ -34,7 +34,7 @@
     <a href="https://www.hackerrank.com/soham_ratnapark1">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a> -->
 - ✔ Ask me anything, and I am happy to help, (only if the ball is in my court!😉)<br>
 - Outside tech, I am a decent footballer! `FORÇA BARÇA`⚽
-- Here's a link to my **resume** ([Link](https://drive.google.com/file/d/1GjLqmwYyI-m5RsSMtxGUudKE9f_H6pBJ/view?usp=sharing)) and **portfolio website** ([Link](https://soham-r-portfolio-website.vercel.app))
+- Here's a link to my **resume** ([Link](https://drive.google.com/file/d/1tQoDjx6ym7oGcL6r9hetJcLfPRyU105K/view?usp=sharing)) and **portfolio website** ([Link](https://soham-r-portfolio-website.vercel.app))
 - <h3> Tech-stack 📜</h3>
 <!-- 	1.  Python <br>
 	2.  Java <br>
